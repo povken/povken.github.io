@@ -1,0 +1,6 @@
+openapi: 3.0.0
+info:
+  title: WSO2 SwaggerUI
+  version: 1.0.0
+  description: |
+    Please input your API Definition URL to generate SwaggerUI request.
